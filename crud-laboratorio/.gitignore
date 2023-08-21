@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+env/
+
+# Database files
+*.sqlite3
+*.db
+
+# Static and Media files
+static/
+media/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Ignore these if you use VS Code
+.vscode/
+
+# Ignore these if you use PyCharm
+.idea/
+
+# NODEJS files
+# Node.js Dependencies
+node_modules/
+package-lock.json
+
+# Distribution or Build Folder
+dist/
+build/
+
+# Logs
+*.log
+
+# Ignore these if you use VS Code
+.vscode/
+
+
+# Environment Configuration
+# .env
