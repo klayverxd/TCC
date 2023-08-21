@@ -1,0 +1,23 @@
+config:
+  # target: "http://localhost:8080" # NodeJS
+  # target: "http://localhost:8000" # DRF
+  target: "http://localhost:5071/api" # .NET
+  phases:
+    - duration: 5
+      arrivalRate: 10
+      rampTo: 50
+      name: Warm up the API
+    - duration: 5
+      arrivalRate: 50
+      rampTo: 100
+      name: Ramp up to peak load
+    - duration: 10
+      arrivalRate: 100
+      name: Sustained peak load
+
+scenarios:
+  - name: Get Componentes
+    flow:
+      - get:
+          # url: "/componentes/"
+          url: "/Componente" # .NET

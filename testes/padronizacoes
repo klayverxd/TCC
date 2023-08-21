@@ -1,0 +1,8 @@
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{path}
+    \vspace{5mm}
+    \captionsetup{justification=centering}
+    \caption{Descricao}
+    \label{label}
+\end{figure}

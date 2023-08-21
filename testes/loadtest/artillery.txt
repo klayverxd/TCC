@@ -1,0 +1,32 @@
+artillery run [options] <script>
+
+- Exemplo quick 
+artillery quick --count 10 --num 2 http://localhost:8000/componentes/
+artillery quick --count 10 --num 2 http://localhost:8080/componentes/
+artillery quick --count 10 --num 2 http://localhost:5071/api/Componente
+
+- Exemplo SpikeTest
+config:
+  target: "http://localhost:8080"
+  phases:
+    - duration: 5
+      arrivalRate: 5
+      rampTo: 10
+      name: Warm up the API
+    - duration: 5
+      arrivalRate: 10
+      rampTo: 50
+      name: Ramp up to peak load
+    - duration: 10
+      arrivalRate: 50
+      name: Sustained peak load
+
+scenarios:
+  - name: Get Componentes
+    flow:
+      - loop:
+        - get:
+            url: "/componentes"
+          count: 100
+        
+

@@ -1,0 +1,12 @@
+config:
+  target: "http://localhost:8080"
+  phases:
+    - name: "arrivalRate: 1000 -> 10 seconds"
+      duration: 10
+      arrivalRate: 1000
+
+scenarios:
+  - name: "GET Componentes"
+    flow:
+      - get:
+          url: "/componentes"

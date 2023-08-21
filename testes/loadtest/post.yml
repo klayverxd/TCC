@@ -1,0 +1,22 @@
+config:
+  target: "http://localhost:8080"
+  phases:
+    - name: "arrivalRate: 10 -> 5 seconds"
+      duration: 5
+      arrivalRate: 10
+
+scenarios:
+  - name: "POST Componentes"
+    flow:
+        - log: "get running"
+        - get:
+            url: "/componentes"
+
+        - log: "post running"
+        - post:
+            url: "/componentes"
+            json:
+              nome: "NomeComponente"
+              descricao: "descricao componente"
+              referencia: "xxx111"
+              quantidade: 10
