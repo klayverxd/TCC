@@ -52,3 +52,21 @@ Criar dashboard (template 2204)
 
 ## Outros
 `netstat -ano` verificar portas em execução
+
+
+# Linux
+
+### MySQL
+Iniciar o serviço `sudo service mysql start`
+Verificar se o serviço está em execução `service mysql status`
+
+Acessar prompt mysql `sudo mysql -u root -p`
+`apt --fix-broken install`
+
+---
+Monitorar a pacotes por porta `sudo tcpdump -i any -n port 8080`
+
+
+Monitorar um processo e gerar arquivo de logs em função do tempo `top -b -d 1 -p 39350 >> /media/klayver/Codes/TCC/testes/logs/logs.txt`
+
+Monitorar um processo pelo arquivo e gerar arquivo de logs em função do tempo `top -b -d 1 -p $(pgrep -f "node /media/klayver/Codes/TCC/crud-laboratorio/crud-laboratorio-nodejs/node_modules/.bin/nodemon index.js") >> /media/klayver/Codes/TCC/testes/logs/logs2.txt`
