@@ -41,3 +41,58 @@ build/
 
 # Environment Configuration
 # .env
+
+
+# DOTNET
+# Ignorar arquivos e pastas gerados pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+
+# Ignorar arquivos de compilação e saída
+*.exe
+*.dll
+*.pdb
+*.log
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Ignorar arquivos de configuração de usuário
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar pacotes NuGet
+packages/
+
+# Ignorar arquivos de build
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Oo]bj/
+
+# Ignorar cache e arquivos temporários
+[Tt]humbs.db
+Desktop.ini
+[Tt]est[Rr]esults/
+
+# Ignorar arquivos de publicação
+_PublishedWebsites/
+publishtmp/
+*.publishproj
+
+# Ignorar arquivos de análise de código
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos de ferramentas
+ToolUpdates/
+
+# Ignorar arquivos de código fonte para NuGet pacote
+*.nupkg
+*.pupkg
+*.vsix
