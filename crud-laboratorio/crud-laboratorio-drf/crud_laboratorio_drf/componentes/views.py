@@ -4,20 +4,8 @@ from rest_framework.response import Response
 from componentes.models import Componentes
 from componentes.serializers import ComponentesSerializer
 
-import psutil
-from prometheus_client import Gauge
-
-process_resident_memory = Gauge('my_django_app_process_resident_memory_bytes',
-                                 'Resident memory size in bytes for my Django app')
-
-def update_memory_metric():
-    process = psutil.Process()
-    memory_info = process.memory_info()
-    process_resident_memory.set(memory_info.rss)
-
 @api_view(['GET', 'POST'])
 def componente_list(request):
-    update_memory_metric()
 
     """
     List all code componentes, or create a new componente.
@@ -37,7 +25,6 @@ def componente_list(request):
 
 @api_view(['GET', 'PUT', 'DELETE'])
 def componente_detail(request, pk):
-    update_memory_metric()
 
     """
     Retrieve, update or delete a code componente.
