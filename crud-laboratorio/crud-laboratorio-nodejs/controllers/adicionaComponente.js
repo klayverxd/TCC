@@ -11,9 +11,17 @@ export const adicionaComponente = (req, res) => {
 		req.body.quantidade,
 	];
 
-	database.query(insertQuery, [valores], err => {
-		if (err) return res.json(err);
+	database.query(insertQuery, [valores], (err, result) => {
+		if (err) return res.status(400).json(err);
 
-		return res.status(200).json("Componente adicionado com sucesso!");
+		const novoComponente = {
+			id: result.insertId,
+			nome: req.body.nome,
+			descricao: req.body.descricao,
+			referencia: req.body.referencia,
+			quantidade: req.body.quantidade,
+		};
+
+		return res.status(201).json(novoComponente);
 	});
 };
