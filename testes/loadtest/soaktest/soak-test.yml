@@ -1,0 +1,44 @@
+config:
+  # target: "http://localhost:8080" # NodeJS
+  # target: "http://localhost:8000" # DRF
+  target: "http://localhost:5071/api" # .NET
+
+  phases:
+    - duration: 30
+      arrivalRate: 100
+    
+scenarios:
+  - name: SoakTest
+    flow:
+      - post:
+          # url: "/componentes/"
+          url: "/Componente"
+          json:
+            nome: "nome novo componente"
+            descricao: "descricao novo componente"
+            referencia: "referencia novo componente"
+            quantidade: 50
+          capture:
+            - json: '$.id'
+              as: 'componentId'  # Captura o ID do componente criado
+          # save:
+          #   - component_id: '$.id'  # Salvar o ID do componente criado
+
+      - put:
+          # url: "/componentes/{{ componentId }}/"
+          url: "/Componente/{{ componentId }}"
+          json:
+            id: '{{ componentId }}'
+            nome: "nome atualizado"
+            descricao: "descricao atualizada"
+            referencia: "referencia atualizada"
+            quantidade: 100
+
+      - get:
+          # url: "/componentes/"
+          url: "/Componente"
+
+      - delete:
+          # url: "/componentes/{{ componentId }}/"
+          url: "/Componente/{{ componentId }}"
+
