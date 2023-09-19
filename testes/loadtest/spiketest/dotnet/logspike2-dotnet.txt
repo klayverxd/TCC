@@ -1,0 +1,458 @@
+top - 20:15:49 up 15 min,  1 user,  load average: 5,21, 2,45, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  0,0 us,  0,0 sy,  0,0 ni,100,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3848,1 livre,   7926,9 usados,   4118,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7292,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,4g   3,7g 116572 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:50 up 15 min,  1 user,  load average: 5,21, 2,45, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  6,6 us,  2,7 sy,  0,0 ni, 90,6 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3848,1 livre,   7926,9 usados,   4118,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7292,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116600 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:51 up 15 min,  1 user,  load average: 5,21, 2,45, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  7,6 us,  2,1 sy,  0,0 ni, 90,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3848,1 livre,   7926,9 usados,   4118,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7292,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116600 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:52 up 15 min,  1 user,  load average: 5,21, 2,45, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,6 us,  1,0 sy,  0,0 ni, 96,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3829,3 livre,   7943,5 usados,   4121,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7273,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116600 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:53 up 15 min,  1 user,  load average: 4,79, 2,41, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  3,1 us,  0,9 sy,  0,0 ni, 95,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3829,3 livre,   7943,5 usados,   4121,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7273,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116600 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:54 up 15 min,  1 user,  load average: 4,79, 2,41, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  1,2 us,  0,4 sy,  0,0 ni, 98,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3829,3 livre,   7943,5 usados,   4121,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7273,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116672 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:55 up 15 min,  1 user,  load average: 4,79, 2,41, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  4,5 us,  0,3 sy,  0,0 ni, 95,0 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3844,4 livre,   7931,6 usados,   4117,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7288,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116672 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:56 up 15 min,  1 user,  load average: 4,79, 2,41, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  5,2 us,  1,0 sy,  0,0 ni, 93,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3844,4 livre,   7931,6 usados,   4117,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7288,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116672 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:57 up 15 min,  1 user,  load average: 4,79, 2,41, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,2 us,  0,7 sy,  0,0 ni, 97,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3844,4 livre,   7931,6 usados,   4117,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7288,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116672 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:58 up 15 min,  1 user,  load average: 4,48, 2,39, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  7,3 us,  0,6 sy,  0,0 ni, 92,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3728,2 livre,   8044,8 usados,   4120,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7172,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,2g   3,7g 116672 S   0,0  23,8   1:08.09 CrudLaboratorio
+
+top - 20:15:59 up 15 min,  1 user,  load average: 4,48, 2,39, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 27,9 us,  2,8 sy,  0,0 ni, 69,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3728,2 livre,   8044,8 usados,   4120,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7172,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,2g   3,7g 116680 S   1,0  23,8   1:08.10 CrudLaboratorio
+
+top - 20:16:00 up 15 min,  1 user,  load average: 4,48, 2,39, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,4 us,  1,7 sy,  0,0 ni, 87,8 id,  1,2 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3728,2 livre,   8044,8 usados,   4120,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7172,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,2g   3,7g 116684 S  20,0  23,8   1:08.30 CrudLaboratorio
+
+top - 20:16:01 up 15 min,  1 user,  load average: 4,48, 2,39, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 14,3 us,  3,0 sy,  0,0 ni, 80,0 id,  2,5 wa,  0,0 hi,  0,2 si,  0,0 st
+MB mem :  15893,8 total,   3246,9 livre,   8524,0 usados,   4122,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6694,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116692 S  57,0  23,8   1:08.87 CrudLaboratorio
+
+top - 20:16:02 up 15 min,  1 user,  load average: 4,48, 2,39, 1,11
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,9 us,  3,7 sy,  0,0 ni, 79,6 id,  2,7 wa,  0,0 hi,  0,2 si,  0,0 st
+MB mem :  15893,8 total,   3246,9 livre,   8524,0 usados,   4122,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6694,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116712 S  65,0  23,8   1:09.52 CrudLaboratorio
+
+top - 20:16:03 up 15 min,  1 user,  load average: 4,37, 2,40, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,9 us,  3,5 sy,  0,0 ni, 76,6 id,  2,7 wa,  0,0 hi,  0,4 si,  0,0 st
+MB mem :  15893,8 total,   3246,9 livre,   8524,0 usados,   4122,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6694,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116708 S  80,0  23,8   1:10.32 CrudLaboratorio
+
+top - 20:16:04 up 15 min,  1 user,  load average: 4,37, 2,40, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 19,1 us,  3,9 sy,  0,0 ni, 73,5 id,  3,2 wa,  0,0 hi,  0,2 si,  0,0 st
+MB mem :  15893,8 total,   3107,1 livre,   8650,3 usados,   4136,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6567,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116688 S  88,0  23,8   1:11.20 CrudLaboratorio
+
+top - 20:16:05 up 15 min,  1 user,  load average: 4,37, 2,40, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 23,7 us,  3,1 sy,  0,0 ni, 69,6 id,  3,4 wa,  0,0 hi,  0,2 si,  0,0 st
+MB mem :  15893,8 total,   3107,1 livre,   8650,3 usados,   4136,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6567,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116668 S 101,0  23,8   1:12.21 CrudLaboratorio
+
+top - 20:16:06 up 15 min,  1 user,  load average: 4,37, 2,40, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 23,0 us,  3,2 sy,  0,0 ni, 70,2 id,  3,3 wa,  0,0 hi,  0,3 si,  0,0 st
+MB mem :  15893,8 total,   3107,1 livre,   8650,3 usados,   4136,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6567,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116668 S 113,0  23,8   1:13.34 CrudLaboratorio
+
+top - 20:16:07 up 16 min,  1 user,  load average: 4,37, 2,40, 1,12
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 27,3 us,  5,2 sy,  0,0 ni, 63,3 id,  3,7 wa,  0,0 hi,  0,5 si,  0,0 st
+MB mem :  15893,8 total,   3241,7 livre,   8500,9 usados,   4151,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6712,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116660 S 126,0  23,8   1:14.60 CrudLaboratorio
+
+top - 20:16:08 up 16 min,  1 user,  load average: 4,34, 2,43, 1,14
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 29,3 us,  4,4 sy,  0,0 ni, 61,6 id,  4,3 wa,  0,0 hi,  0,4 si,  0,0 st
+MB mem :  15893,8 total,   3241,7 livre,   8500,9 usados,   4151,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6712,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116664 S 133,7  23,8   1:15.95 CrudLaboratorio
+
+top - 20:16:09 up 16 min,  1 user,  load average: 4,34, 2,43, 1,14
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 27,5 us,  5,2 sy,  0,0 ni, 62,6 id,  4,4 wa,  0,0 hi,  0,4 si,  0,0 st
+MB mem :  15893,8 total,   3241,7 livre,   8500,9 usados,   4151,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6712,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116632 S 146,0  23,8   1:17.41 CrudLaboratorio
+
+top - 20:16:10 up 16 min,  1 user,  load average: 4,34, 2,43, 1,14
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 32,8 us,  5,2 sy,  0,0 ni, 56,7 id,  4,7 wa,  0,0 hi,  0,6 si,  0,0 st
+MB mem :  15893,8 total,   3198,3 livre,   8531,9 usados,   4163,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6681,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116636 S 156,0  23,8   1:18.97 CrudLaboratorio
+
+top - 20:16:11 up 16 min,  1 user,  load average: 4,34, 2,43, 1,14
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 31,2 us,  5,1 sy,  0,0 ni, 58,4 id,  4,7 wa,  0,0 hi,  0,5 si,  0,0 st
+MB mem :  15893,8 total,   3198,3 livre,   8531,9 usados,   4163,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6681,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116636 S 158,0  23,8   1:20.55 CrudLaboratorio
+
+top - 20:16:12 up 16 min,  1 user,  load average: 4,34, 2,43, 1,14
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 36,4 us,  6,0 sy,  0,0 ni, 52,2 id,  4,7 wa,  0,0 hi,  0,8 si,  0,0 st
+MB mem :  15893,8 total,   3198,3 livre,   8531,9 usados,   4163,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6681,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116644 S 180,0  23,8   1:22.35 CrudLaboratorio
+
+top - 20:16:13 up 16 min,  1 user,  load average: 4,31, 2,45, 1,15
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 34,9 us,  5,6 sy,  0,0 ni, 53,4 id,  5,4 wa,  0,0 hi,  0,8 si,  0,0 st
+MB mem :  15893,8 total,   3060,4 livre,   8648,0 usados,   4185,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6556,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116640 S 194,0  23,8   1:24.29 CrudLaboratorio
+
+top - 20:16:14 up 16 min,  1 user,  load average: 4,31, 2,45, 1,15
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 39,5 us,  5,9 sy,  0,0 ni, 49,2 id,  4,7 wa,  0,0 hi,  0,7 si,  0,0 st
+MB mem :  15893,8 total,   3060,4 livre,   8648,0 usados,   4185,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6556,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116640 S 201,0  23,8   1:26.30 CrudLaboratorio
+
+top - 20:16:15 up 16 min,  1 user,  load average: 4,31, 2,45, 1,15
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 43,4 us,  6,6 sy,  0,0 ni, 44,8 id,  4,3 wa,  0,0 hi,  0,9 si,  0,0 st
+MB mem :  15893,8 total,   3060,4 livre,   8648,0 usados,   4185,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6556,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116680 S 216,0  23,9   1:28.46 CrudLaboratorio
+
+top - 20:16:16 up 16 min,  1 user,  load average: 4,31, 2,45, 1,15
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 44,0 us,  7,1 sy,  0,0 ni, 42,7 id,  5,4 wa,  0,0 hi,  0,9 si,  0,0 st
+MB mem :  15893,8 total,   2906,1 livre,   8787,5 usados,   4200,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6417,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116684 S 232,0  24,0   1:30.78 CrudLaboratorio
+
+top - 20:16:17 up 16 min,  1 user,  load average: 4,31, 2,45, 1,15
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 54,7 us,  7,9 sy,  0,0 ni, 32,8 id,  3,6 wa,  0,0 hi,  0,9 si,  0,0 st
+MB mem :  15893,8 total,   2906,1 livre,   8787,5 usados,   4200,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6417,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116408 S 309,9  24,0   1:33.91 CrudLaboratorio
+
+top - 20:16:18 up 16 min,  1 user,  load average: 4,60, 2,54, 1,19
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 51,1 us,  7,3 sy,  0,0 ni, 36,6 id,  4,3 wa,  0,0 hi,  0,8 si,  0,0 st
+MB mem :  15893,8 total,   2906,1 livre,   8787,5 usados,   4200,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6417,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116392 S 239,0  24,0   1:36.30 CrudLaboratorio
+
+top - 20:16:19 up 16 min,  1 user,  load average: 4,60, 2,54, 1,19
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 50,6 us,  7,1 sy,  0,0 ni, 36,4 id,  4,7 wa,  0,0 hi,  1,3 si,  0,0 st
+MB mem :  15893,8 total,   2862,4 livre,   8814,2 usados,   4217,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6390,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116380 S 250,0  24,0   1:38.80 CrudLaboratorio
+
+top - 20:16:20 up 16 min,  1 user,  load average: 4,60, 2,54, 1,19
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 73,8 us,  6,7 sy,  0,0 ni, 16,3 id,  2,0 wa,  0,0 hi,  1,3 si,  0,0 st
+MB mem :  15893,8 total,   2862,4 livre,   8814,2 usados,   4217,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6390,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116392 S 229,0  24,0   1:41.09 CrudLaboratorio
+
+top - 20:16:21 up 16 min,  1 user,  load average: 4,60, 2,54, 1,19
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 87,9 us,  8,0 sy,  0,0 ni,  2,4 id,  0,3 wa,  0,0 hi,  1,3 si,  0,0 st
+MB mem :  15893,8 total,   2862,4 livre,   8814,2 usados,   4217,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6390,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116388 S 240,0  24,0   1:43.49 CrudLaboratorio
+
+top - 20:16:22 up 16 min,  1 user,  load average: 4,60, 2,54, 1,19
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 86,2 us,  9,4 sy,  0,0 ni,  2,9 id,  0,4 wa,  0,0 hi,  1,1 si,  0,0 st
+MB mem :  15893,8 total,   2830,3 livre,   8835,0 usados,   4228,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6370,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116380 S 239,0  24,0   1:45.88 CrudLaboratorio
+
+top - 20:16:23 up 16 min,  1 user,  load average: 6,56, 2,98, 1,34
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 88,1 us,  8,3 sy,  0,0 ni,  2,0 id,  0,2 wa,  0,0 hi,  1,4 si,  0,0 st
+MB mem :  15893,8 total,   2830,3 livre,   8835,0 usados,   4228,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6370,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116392 S 241,0  24,0   1:48.29 CrudLaboratorio
+
+top - 20:16:24 up 16 min,  1 user,  load average: 6,56, 2,98, 1,34
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 87,9 us,  8,1 sy,  0,0 ni,  2,4 id,  0,2 wa,  0,0 hi,  1,4 si,  0,0 st
+MB mem :  15893,8 total,   2830,3 livre,   8835,0 usados,   4228,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6370,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116392 S 229,0  24,0   1:50.58 CrudLaboratorio
+
+top - 20:16:25 up 16 min,  1 user,  load average: 6,56, 2,98, 1,34
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 88,3 us,  8,0 sy,  0,0 ni,  2,1 id,  0,3 wa,  0,0 hi,  1,3 si,  0,0 st
+MB mem :  15893,8 total,   2785,2 livre,   8870,7 usados,   4237,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6335,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116384 S 249,0  24,0   1:53.07 CrudLaboratorio
+
+top - 20:16:26 up 16 min,  1 user,  load average: 6,56, 2,98, 1,34
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 86,8 us,  8,3 sy,  0,0 ni,  2,7 id,  0,3 wa,  0,0 hi,  1,8 si,  0,0 st
+MB mem :  15893,8 total,   2785,2 livre,   8870,7 usados,   4237,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6335,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116388 S 256,4  24,0   1:55.66 CrudLaboratorio
+
+top - 20:16:27 up 16 min,  1 user,  load average: 6,56, 2,98, 1,34
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 87,2 us,  9,3 sy,  0,0 ni,  1,9 id,  0,3 wa,  0,0 hi,  1,3 si,  0,0 st
+MB mem :  15893,8 total,   2785,2 livre,   8870,7 usados,   4237,9 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6335,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,7g 116400 S 241,0  24,0   1:58.07 CrudLaboratorio
+
+top - 20:16:28 up 16 min,  1 user,  load average: 8,76, 3,50, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 87,5 us,  8,2 sy,  0,0 ni,  3,0 id,  0,2 wa,  0,0 hi,  1,2 si,  0,0 st
+MB mem :  15893,8 total,   2621,8 livre,   9024,2 usados,   4247,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6181,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116536 S 250,0  24,4   2:00.57 CrudLaboratorio
+
+top - 20:16:29 up 16 min,  1 user,  load average: 8,76, 3,50, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 88,3 us,  9,4 sy,  0,0 ni,  1,1 id,  0,1 wa,  0,0 hi,  1,2 si,  0,0 st
+MB mem :  15893,8 total,   2621,8 livre,   9024,2 usados,   4247,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6181,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116572 S 344,0  24,5   2:04.01 CrudLaboratorio
+
+top - 20:16:30 up 16 min,  1 user,  load average: 8,76, 3,50, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 69,3 us,  8,0 sy,  0,0 ni, 21,2 id,  0,5 wa,  0,0 hi,  0,9 si,  0,0 st
+MB mem :  15893,8 total,   2621,8 livre,   9024,2 usados,   4247,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6181,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116712 S 249,0  24,5   2:06.50 CrudLaboratorio
+
+top - 20:16:31 up 16 min,  1 user,  load average: 8,76, 3,50, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  5,0 us,  1,5 sy,  0,0 ni, 93,3 id,  0,2 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2531,9 livre,   9107,5 usados,   4254,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6098,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116712 S  13,0  24,5   2:06.63 CrudLaboratorio
+
+top - 20:16:32 up 16 min,  1 user,  load average: 8,76, 3,50, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  3,4 us,  1,3 sy,  0,0 ni, 94,9 id,  0,2 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   2531,9 livre,   9107,5 usados,   4254,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6098,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116712 S  12,0  24,5   2:06.75 CrudLaboratorio
+
+top - 20:16:33 up 16 min,  1 user,  load average: 8,13, 3,46, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  4,0 us,  1,1 sy,  0,0 ni, 94,6 id,  0,3 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2531,9 livre,   9107,5 usados,   4254,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6098,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S  11,0  24,5   2:06.86 CrudLaboratorio
+
+top - 20:16:34 up 16 min,  1 user,  load average: 8,13, 3,46, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  5,3 us,  1,3 sy,  0,0 ni, 92,7 id,  0,6 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   2510,9 livre,   9130,2 usados,   4252,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6075,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S  16,8  24,5   2:07.03 CrudLaboratorio
+
+top - 20:16:35 up 16 min,  1 user,  load average: 8,13, 3,46, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  4,2 us,  0,7 sy,  0,0 ni, 94,6 id,  0,5 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2510,9 livre,   9130,2 usados,   4252,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6075,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S   0,0  24,5   2:07.03 CrudLaboratorio
+
+top - 20:16:36 up 16 min,  1 user,  load average: 8,13, 3,46, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,4 us,  0,9 sy,  0,0 ni, 96,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   2510,9 livre,   9130,2 usados,   4252,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6075,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S   0,0  24,5   2:07.03 CrudLaboratorio
+
+top - 20:16:37 up 16 min,  1 user,  load average: 8,13, 3,46, 1,51
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,8 us,  0,9 sy,  0,0 ni, 96,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2542,9 livre,   9097,8 usados,   4253,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6108,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S   0,0  24,5   2:07.03 CrudLaboratorio
+
+top - 20:16:38 up 16 min,  1 user,  load average: 7,48, 3,40, 1,50
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,0 us,  1,4 sy,  0,0 ni, 96,5 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2542,9 livre,   9097,8 usados,   4253,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6108,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S   0,0  24,5   2:07.03 CrudLaboratorio
+
+top - 20:16:39 up 16 min,  1 user,  load average: 7,48, 3,40, 1,50
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  2,1 us,  1,1 sy,  0,0 ni, 96,7 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   2542,9 livre,   9097,8 usados,   4253,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   6108,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+   7600 klayver   20   0  263,3g   3,8g 116716 S   0,0  24,5   2:07.03 CrudLaboratorio

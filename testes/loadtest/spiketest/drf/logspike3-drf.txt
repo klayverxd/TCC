@@ -1,0 +1,629 @@
+top - 20:37:34 up 37 min,  1 user,  load average: 2,74, 1,72, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,4 us,  0,6 sy,  0,0 ni, 90,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4948,3 livre,   6401,7 usados,   4543,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8871,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,4g   1,6g  14148 S 106,7  10,3   2:52.95 python3
+
+top - 20:37:35 up 37 min,  1 user,  load average: 2,74, 1,72, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 10,3 us,  0,4 sy,  0,0 ni, 89,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4948,3 livre,   6401,7 usados,   4543,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8871,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,3g   1,6g  14148 S 101,0  10,3   2:53.96 python3
+
+top - 20:37:36 up 37 min,  1 user,  load average: 2,74, 1,72, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,6 us,  1,4 sy,  0,0 ni, 85,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4948,3 livre,   6401,7 usados,   4543,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8871,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,3g   1,6g  14148 S 101,0  10,3   2:54.97 python3
+
+top - 20:37:37 up 37 min,  1 user,  load average: 2,74, 1,72, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 10,3 us,  0,8 sy,  0,0 ni, 88,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4939,2 livre,   6410,7 usados,   4543,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8862,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,3g   1,6g  14148 S 101,0  10,2   2:55.98 python3
+
+top - 20:37:38 up 37 min,  1 user,  load average: 2,74, 1,72, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,1 us,  0,5 sy,  0,0 ni, 90,4 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4939,2 livre,   6410,7 usados,   4543,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8862,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,1g   1,6g  14148 S 101,0  10,2   2:57.00 python3
+
+top - 20:37:39 up 37 min,  1 user,  load average: 2,60, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,5 us,  0,7 sy,  0,0 ni, 89,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4939,2 livre,   6410,7 usados,   4543,8 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8862,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,0g   1,6g  14148 S 102,0  10,3   2:58.02 python3
+
+top - 20:37:40 up 37 min,  1 user,  load average: 2,60, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 10,3 us,  1,0 sy,  0,0 ni, 88,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4954,4 livre,   6393,9 usados,   4545,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8877,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,9g   1,6g  14148 S 102,0  10,3   2:59.04 python3
+
+top - 20:37:41 up 37 min,  1 user,  load average: 2,60, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,9 us,  0,8 sy,  0,0 ni, 87,1 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4954,4 livre,   6393,9 usados,   4545,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8877,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,7g   1,6g  14148 S 102,0  10,3   3:00.06 python3
+
+top - 20:37:42 up 37 min,  1 user,  load average: 2,60, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,2 us,  1,6 sy,  0,0 ni, 82,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4954,4 livre,   6393,9 usados,   4545,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8877,5 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,6g   1,6g  14148 S 102,0  10,4   3:01.08 python3
+
+top - 20:37:43 up 37 min,  1 user,  load average: 2,60, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 36,4 us,  3,9 sy,  0,0 ni, 59,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4431,2 livre,   6918,3 usados,   4544,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8355,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,5g   1,6g  14148 S 101,0  10,4   3:02.10 python3
+
+top - 20:37:44 up 37 min,  1 user,  load average: 2,55, 1,71, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 14,8 us,  1,5 sy,  0,0 ni, 83,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4431,2 livre,   6918,3 usados,   4544,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8355,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,4g   1,6g  14148 S 103,0  10,5   3:03.13 python3
+
+top - 20:37:45 up 37 min,  1 user,  load average: 2,55, 1,71, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,5 us,  1,5 sy,  0,0 ni, 85,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4431,2 livre,   6918,3 usados,   4544,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8355,6 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   35,7g   1,6g  14148 S 102,0  10,5   3:04.15 python3
+
+top - 20:37:46 up 37 min,  1 user,  load average: 2,55, 1,71, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,8 us,  1,2 sy,  0,0 ni, 87,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4358,1 livre,   6992,2 usados,   4543,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8281,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,1g   1,6g  14148 S 103,0  10,6   3:05.18 python3
+
+top - 20:37:47 up 37 min,  1 user,  load average: 2,55, 1,71, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 12,5 us,  1,7 sy,  0,0 ni, 85,7 id,  0,2 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4358,1 livre,   6992,2 usados,   4543,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8281,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   36,6g   1,6g  14148 S 103,0  10,6   3:06.21 python3
+
+top - 20:37:48 up 37 min,  1 user,  load average: 2,55, 1,71, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,3 us,  1,3 sy,  0,0 ni, 85,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4358,1 livre,   6992,2 usados,   4543,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8281,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   37,0g   1,7g  14148 S 102,0  10,6   3:07.24 python3
+
+top - 20:37:49 up 37 min,  1 user,  load average: 2,43, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 12,7 us,  1,8 sy,  0,0 ni, 85,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4289,6 livre,   7056,7 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8213,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   37,4g   1,7g  14148 S 102,0  10,7   3:08.26 python3
+
+top - 20:37:50 up 37 min,  1 user,  load average: 2,43, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,1 us,  0,9 sy,  0,0 ni, 85,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   4289,6 livre,   7056,7 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8213,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   37,9g   1,7g  14148 S 102,0  10,7   3:09.28 python3
+
+top - 20:37:51 up 37 min,  1 user,  load average: 2,43, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 17,2 us,  0,8 sy,  0,0 ni, 81,8 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4289,6 livre,   7056,7 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8213,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   38,5g   1,7g  14148 S 103,0  10,7   3:10.31 python3
+
+top - 20:37:52 up 37 min,  1 user,  load average: 2,43, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 18,5 us,  1,7 sy,  0,0 ni, 79,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4410,3 livre,   6936,0 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8334,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   38,9g   1,7g  14148 S 102,0  10,8   3:11.33 python3
+
+top - 20:37:53 up 37 min,  1 user,  load average: 2,43, 1,70, 1,56
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 18,7 us,  2,2 sy,  0,0 ni, 79,0 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4410,3 livre,   6936,0 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8334,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   39,3g   1,7g  14148 S 103,0  10,8   3:12.36 python3
+
+top - 20:37:54 up 37 min,  1 user,  load average: 2,47, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 15,1 us,  1,5 sy,  0,0 ni, 83,3 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4410,3 livre,   6936,0 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8334,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   39,9g   1,7g  14148 S 100,0  10,9   3:13.37 python3
+
+top - 20:37:55 up 37 min,  1 user,  load average: 2,47, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,6 us,  2,0 sy,  0,0 ni, 84,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4333,1 livre,   7013,2 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8256,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   40,6g   1,7g  14148 S 103,0  10,8   3:14.40 python3
+
+top - 20:37:56 up 37 min,  1 user,  load average: 2,47, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 14,2 us,  1,5 sy,  0,0 ni, 84,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4333,1 livre,   7013,2 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8256,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   41,0g   1,7g  14148 S 103,0  10,9   3:15.43 python3
+
+top - 20:37:57 up 37 min,  1 user,  load average: 2,47, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,7 us,  1,9 sy,  0,0 ni, 81,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4333,1 livre,   7013,2 usados,   4547,5 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8256,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   41,3g   1,7g  14148 S 101,0  10,9   3:16.44 python3
+
+top - 20:37:58 up 37 min,  1 user,  load average: 2,47, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,8 us,  1,6 sy,  0,0 ni, 84,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4247,9 livre,   7090,3 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8171,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   41,7g   1,7g  14148 S 103,0  11,0   3:17.47 python3
+
+top - 20:37:59 up 37 min,  1 user,  load average: 2,43, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,9 us,  1,8 sy,  0,0 ni, 81,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   4247,9 livre,   7090,3 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8171,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   42,0g   1,7g  14148 S 101,0  11,0   3:18.49 python3
+
+top - 20:38:00 up 37 min,  1 user,  load average: 2,43, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 17,1 us,  1,4 sy,  0,0 ni, 81,3 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4247,9 livre,   7090,3 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8171,8 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   42,5g   1,7g  14148 S 102,0  11,1   3:19.51 python3
+
+top - 20:38:01 up 37 min,  1 user,  load average: 2,43, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,6 us,  1,8 sy,  0,0 ni, 81,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4121,2 livre,   7217,0 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8045,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   42,9g   1,7g  14148 S 102,0  11,2   3:20.53 python3
+
+top - 20:38:02 up 37 min,  1 user,  load average: 2,43, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 18,9 us,  2,0 sy,  0,0 ni, 79,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4121,2 livre,   7217,0 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8045,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   43,8g   1,7g  14148 S 102,0  11,2   3:21.55 python3
+
+top - 20:38:03 up 37 min,  1 user,  load average: 2,43, 1,72, 1,57
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 16,5 us,  1,8 sy,  0,0 ni, 81,6 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   4121,2 livre,   7217,0 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8045,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   45,0g   1,8g  14148 S 103,0  11,3   3:22.59 python3
+
+top - 20:38:04 up 37 min,  1 user,  load average: 2,48, 1,75, 1,58
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 44,7 us,  3,4 sy,  0,0 ni, 51,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3904,3 livre,   7433,9 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7828,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   45,9g   1,8g  14148 S  98,0  11,3   3:23.57 python3
+
+top - 20:38:05 up 37 min,  1 user,  load average: 2,48, 1,75, 1,58
+Tarefas:   1 total,   1 em exec.,   0 dormindo,   0 parado,   0 zumbi
+%CPU(s): 91,0 us,  6,9 sy,  0,0 ni,  2,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3904,3 livre,   7433,9 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7828,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   46,1g   1,8g  14148 R  68,0  11,3   3:24.25 python3
+
+top - 20:38:06 up 37 min,  1 user,  load average: 2,48, 1,75, 1,58
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 92,2 us,  6,2 sy,  0,0 ni,  1,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3904,3 livre,   7433,9 usados,   4555,6 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7828,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   46,4g   1,8g  14148 S  67,0  11,3   3:24.92 python3
+
+top - 20:38:07 up 38 min,  1 user,  load average: 2,48, 1,75, 1,58
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 89,6 us,  7,9 sy,  0,0 ni,  2,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3831,0 livre,   7506,0 usados,   4556,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7755,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   46,8g   1,8g  14148 S  65,0  11,3   3:25.57 python3
+
+top - 20:38:08 up 38 min,  1 user,  load average: 2,48, 1,75, 1,58
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 90,3 us,  7,5 sy,  0,0 ni,  2,2 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3831,0 livre,   7506,0 usados,   4556,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7755,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,1g   1,8g  14148 S  70,3  11,3   3:26.28 python3
+
+top - 20:38:09 up 38 min,  1 user,  load average: 3,16, 1,90, 1,63
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 91,6 us,  6,6 sy,  0,0 ni,  1,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3831,0 livre,   7506,0 usados,   4556,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7755,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,2g   1,8g  14148 S  69,0  11,4   3:26.97 python3
+
+top - 20:38:10 up 38 min,  1 user,  load average: 3,16, 1,90, 1,63
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 92,8 us,  6,2 sy,  0,0 ni,  1,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3784,5 livre,   7552,1 usados,   4557,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,3g   1,8g  14148 S  93,0  11,4   3:27.90 python3
+
+top - 20:38:11 up 38 min,  1 user,  load average: 3,16, 1,90, 1,63
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 92,8 us,  6,3 sy,  0,0 ni,  0,7 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3784,5 livre,   7552,1 usados,   4557,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,3g   1,7g  14148 S 100,0  11,1   3:28.90 python3
+
+top - 20:38:12 up 38 min,  1 user,  load average: 3,16, 1,90, 1,63
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 90,6 us,  7,4 sy,  0,0 ni,  2,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3784,5 livre,   7552,1 usados,   4557,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,1 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,4g   1,7g  14148 S  65,3  11,1   3:29.56 python3
+
+top - 20:38:13 up 38 min,  1 user,  load average: 3,16, 1,90, 1,63
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 91,4 us,  6,5 sy,  0,0 ni,  2,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MB mem :  15893,8 total,   3759,1 livre,   7576,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7685,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,5g   1,7g  14148 S  67,0  11,1   3:30.23 python3
+
+top - 20:38:14 up 38 min,  1 user,  load average: 4,27, 2,15, 1,71
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 66,4 us,  5,5 sy,  0,0 ni, 27,9 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3759,1 livre,   7576,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7685,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   47,9g   1,7g  14148 S  78,0  11,0   3:31.01 python3
+
+top - 20:38:15 up 38 min,  1 user,  load average: 4,27, 2,15, 1,71
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 14,0 us,  1,4 sy,  0,0 ni, 84,5 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3759,1 livre,   7576,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7685,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   49,1g   1,7g  14148 S 102,0  10,9   3:32.03 python3
+
+top - 20:38:16 up 38 min,  1 user,  load average: 4,27, 2,15, 1,71
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 12,3 us,  1,7 sy,  0,0 ni, 86,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3745,9 livre,   7589,6 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7672,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   50,6g   1,7g  14148 S 105,9  10,9   3:33.10 python3
+
+top - 20:38:17 up 38 min,  1 user,  load average: 4,27, 2,15, 1,71
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 18,0 us,  2,3 sy,  0,0 ni, 79,6 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3745,9 livre,   7589,6 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7672,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   51,7g   1,7g  14148 S 104,0  10,9   3:34.14 python3
+
+top - 20:38:18 up 38 min,  1 user,  load average: 4,27, 2,15, 1,71
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 12,2 us,  1,5 sy,  0,0 ni, 86,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3745,9 livre,   7589,6 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7672,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,0g   1,7g  14148 S 104,0  10,9   3:35.18 python3
+
+top - 20:38:19 up 38 min,  1 user,  load average: 4,17, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,5 us,  1,4 sy,  0,0 ni, 84,9 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MB mem :  15893,8 total,   3731,2 livre,   7604,2 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7658,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,8g   1,7g  14148 S 108,0  10,8   3:36.26 python3
+
+top - 20:38:20 up 38 min,  1 user,  load average: 4,17, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,8 us,  1,4 sy,  0,0 ni, 86,7 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3731,2 livre,   7604,2 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7658,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   53,6g   1,7g  14148 S 107,0  10,8   3:37.33 python3
+
+top - 20:38:21 up 38 min,  1 user,  load average: 4,17, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,0 us,  1,1 sy,  0,0 ni, 85,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3731,2 livre,   7604,2 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7658,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   53,7g   1,7g  14148 S 102,0  10,8   3:38.36 python3
+
+top - 20:38:23 up 38 min,  1 user,  load average: 4,17, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,8 us,  1,8 sy,  0,0 ni, 86,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3750,1 livre,   7585,3 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7677,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   53,8g   1,7g  14148 S 106,0  10,8   3:39.42 python3
+
+top - 20:38:24 up 38 min,  1 user,  load average: 4,17, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 13,5 us,  1,6 sy,  0,0 ni, 84,8 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3750,1 livre,   7585,3 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7677,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   53,5g   1,7g  14148 S 109,0  10,7   3:40.51 python3
+
+top - 20:38:25 up 38 min,  1 user,  load average: 3,99, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,6 us,  1,3 sy,  0,0 ni, 87,0 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3750,1 livre,   7585,3 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7677,0 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   53,1g   1,7g  14148 S 109,0  10,7   3:41.60 python3
+
+top - 20:38:26 up 38 min,  1 user,  load average: 3,99, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,5 us,  1,3 sy,  0,0 ni, 87,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3781,6 livre,   7554,2 usados,   4558,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7708,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,9g   1,7g  14148 S 103,0  10,6   3:42.63 python3
+
+top - 20:38:27 up 38 min,  1 user,  load average: 3,99, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 10,2 us,  1,5 sy,  0,0 ni, 88,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3781,6 livre,   7554,2 usados,   4558,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7708,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,9g   1,6g  14148 S 102,0  10,6   3:43.66 python3
+
+top - 20:38:28 up 38 min,  1 user,  load average: 3,99, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,6 us,  2,2 sy,  0,0 ni, 86,1 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3781,6 livre,   7554,2 usados,   4558,0 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7708,3 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,5g   1,6g  14148 S 110,0  10,6   3:44.76 python3
+
+top - 20:38:29 up 38 min,  1 user,  load average: 3,99, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,2 us,  1,7 sy,  0,0 ni, 89,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3783,6 livre,   7551,9 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   52,1g   1,6g  14148 S 108,0  10,5   3:45.84 python3
+
+top - 20:38:30 up 38 min,  1 user,  load average: 3,75, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,1 us,  1,7 sy,  0,0 ni, 87,1 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3783,6 livre,   7551,9 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   51,9g   1,6g  14148 S 108,0  10,5   3:46.92 python3
+
+top - 20:38:31 up 38 min,  1 user,  load average: 3,75, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,6 us,  1,0 sy,  0,0 ni, 89,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3783,6 livre,   7551,9 usados,   4558,3 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7710,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   51,8g   1,6g  14148 S 102,0  10,5   3:47.94 python3
+
+top - 20:38:32 up 38 min,  1 user,  load average: 3,75, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,8 us,  1,1 sy,  0,0 ni, 89,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3805,1 livre,   7530,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7731,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   51,6g   1,6g  14148 S 101,0  10,4   3:48.96 python3
+
+top - 20:38:33 up 38 min,  1 user,  load average: 3,75, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 10,1 us,  2,6 sy,  0,0 ni, 87,2 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3805,1 livre,   7530,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7731,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   51,3g   1,6g  14148 S 108,0  10,3   3:50.04 python3
+
+top - 20:38:34 up 38 min,  1 user,  load average: 3,75, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,1 us,  1,2 sy,  0,0 ni, 89,6 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   3805,1 livre,   7530,6 usados,   4558,1 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   7731,9 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   50,9g   1,6g  14148 S 109,0  10,3   3:51.13 python3
+
+top - 20:38:35 up 38 min,  1 user,  load average: 3,69, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,4 us,  1,6 sy,  0,0 ni, 87,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4835,3 livre,   6500,1 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8762,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   50,5g   1,6g  14148 S 109,0  10,2   3:52.22 python3
+
+top - 20:38:36 up 38 min,  1 user,  load average: 3,69, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,4 us,  0,6 sy,  0,0 ni, 89,9 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4835,3 livre,   6500,1 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8762,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   50,3g   1,6g  14148 S 106,0  10,1   3:53.28 python3
+
+top - 20:38:37 up 38 min,  1 user,  load average: 3,69, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  8,7 us,  0,3 sy,  0,0 ni, 91,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4835,3 livre,   6500,1 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8762,2 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   50,3g   1,6g  14148 S 100,0  10,1   3:54.29 python3
+
+top - 20:38:38 up 38 min,  1 user,  load average: 3,69, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  8,8 us,  1,3 sy,  0,0 ni, 89,8 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4862,8 livre,   6472,5 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8789,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   49,9g   1,6g  14148 S 108,0  10,0   3:55.37 python3
+
+top - 20:38:39 up 38 min,  1 user,  load average: 3,69, 2,16, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,1 us,  0,7 sy,  0,0 ni, 90,1 id,  0,2 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4862,8 livre,   6472,5 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8789,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   49,2g   1,5g  14148 S 107,0   9,8   3:56.44 python3
+
+top - 20:38:40 up 38 min,  1 user,  load average: 3,48, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,6 us,  1,8 sy,  0,0 ni, 88,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4862,8 livre,   6472,5 usados,   4558,4 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8789,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   48,8g   1,5g  14148 S 107,0   9,7   3:57.51 python3
+
+top - 20:38:41 up 38 min,  1 user,  load average: 3,48, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,4 us,  0,8 sy,  0,0 ni, 87,8 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4949,8 livre,   6385,8 usados,   4558,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8876,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   48,4g   1,5g  14148 S 105,0   9,6   3:58.57 python3
+
+top - 20:38:42 up 38 min,  1 user,  load average: 3,48, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s): 11,0 us,  1,8 sy,  0,0 ni, 87,2 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4949,8 livre,   6385,8 usados,   4558,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8876,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   48,1g   1,5g  14148 S 108,0   9,6   3:59.65 python3
+
+top - 20:38:43 up 38 min,  1 user,  load average: 3,48, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,3 us,  1,6 sy,  0,0 ni, 89,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4949,8 livre,   6385,8 usados,   4558,2 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8876,7 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   48,0g   1,5g  14148 S 107,0   9,5   4:00.72 python3
+
+top - 20:38:44 up 38 min,  1 user,  load average: 3,48, 2,14, 1,72
+Tarefas:   1 total,   0 em exec.,   1 dormindo,   0 parado,   0 zumbi
+%CPU(s):  9,2 us,  0,5 sy,  0,0 ni, 90,2 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MB mem :  15893,8 total,   4996,5 livre,   6335,7 usados,   4561,7 buff/cache
+MB swap:   7163,0 total,   7163,0 livre,      0,0 usados,   8923,4 mem dispon.
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO
+  10997 klayver   20   0   48,0g   1,5g  14148 S 102,0   9,5   4:01.74 python3
