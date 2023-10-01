@@ -6,6 +6,6 @@ export const lerComponentes = (_, res) => {
 	database.query(getQuery, (err, data) => {
 		if (err) return res.json(err);
 
-		return res.status(201).json(data);
+		return res.status(200).json(data);
 	});
 };
