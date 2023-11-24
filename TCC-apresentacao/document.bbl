@@ -1,0 +1,232 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{StackOverflowSurvey}{online}{}
+      \name{author}{1}{}{%
+        {{hash=84d7dc19766c446f5e4084e8fce87f82}{%
+           family={StackOverflow},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{fullhash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{bibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{authorbibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{authornamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{authorfullhash}{84d7dc19766c446f5e4084e8fce87f82}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em 14-abril-2023}
+      \field{title}{Stack Overflow Annual Developer Survey}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://survey.stackoverflow.co/2022/#technology-most-popular-technologies
+      \endverb
+      \verb{url}
+      \verb https://survey.stackoverflow.co/2022/#technology-most-popular-technologies
+      \endverb
+    \endentry
+    \entry{6156}{article}{}
+      \name{author}{2}{}{%
+        {{hash=48cbf1f3c0da4e5834945c3da5c4a8d5}{%
+           family={Basili},
+           familyi={B\bibinitperiod},
+           given={V.R.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4edf9f7f1141a67b14fd06c1d3c20525}{%
+           family={Rombach},
+           familyi={R\bibinitperiod},
+           given={H.D.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \strng{fullhash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \strng{bibnamehash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \strng{authorbibnamehash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \strng{authornamehash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \strng{authorfullhash}{8d90030dccb20a203ac651d0ffdb78ec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Software Engineering}
+      \field{number}{6}
+      \field{title}{The TAME project: towards improvement-oriented software environments}
+      \field{volume}{14}
+      \field{year}{1988}
+      \true{nocite}
+      \field{pages}{758\bibrangedash 773}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/32.6156
+      \endverb
+    \endentry
+    \entry{nodejs}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b00bbf4971bea7d45e4ee343c881d44}{%
+           family={Node.js},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \strng{fullhash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \strng{bibnamehash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \strng{authorbibnamehash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \strng{authornamehash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \strng{authorfullhash}{4b00bbf4971bea7d45e4ee343c881d44}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em 20-abril-2023}
+      \field{title}{Documentação Node.js}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://nodejs.org
+      \endverb
+      \verb{url}
+      \verb https://nodejs.org
+      \endverb
+    \endentry
+    \entry{django}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ef0f93c83e374876a61da0d4d16f36ab}{%
+           family={Django},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \strng{fullhash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \strng{bibnamehash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \strng{authorbibnamehash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \strng{authornamehash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \strng{authorfullhash}{ef0f93c83e374876a61da0d4d16f36ab}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em 20-abril-2023}
+      \field{title}{Documentação Django}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.djangoproject.com
+      \endverb
+      \verb{url}
+      \verb https://www.djangoproject.com
+      \endverb
+    \endentry
+    \entry{dotnet}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em 20-abril-2023}
+      \field{title}{Documentação .Net}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0
+      \endverb
+    \endentry
+    \entry{7123673}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7b5b3edf86a22761a4093a10eb259966}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Zhen\bibnamedelima Ming},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=37a79f9b3d67c262a89ed8c5521d654f}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fad2a4e711be34595b76358d4579e64}
+      \strng{fullhash}{4fad2a4e711be34595b76358d4579e64}
+      \strng{bibnamehash}{4fad2a4e711be34595b76358d4579e64}
+      \strng{authorbibnamehash}{4fad2a4e711be34595b76358d4579e64}
+      \strng{authornamehash}{4fad2a4e711be34595b76358d4579e64}
+      \strng{authorfullhash}{4fad2a4e711be34595b76358d4579e64}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Software Engineering}
+      \field{number}{11}
+      \field{title}{A Survey on Load Testing of Large-Scale Software Systems}
+      \field{volume}{41}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{1091\bibrangedash 1118}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1109/TSE.2015.2445340
+      \endverb
+    \endentry
+    \entry{jmeter}{online}{}
+      \name{author}{1}{}{%
+        {{hash=83fa7deff3f8167de19979c663d1d5fb}{%
+           family={JMeter},
+           familyi={J\bibinitperiod},
+           given={Apache},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{83fa7deff3f8167de19979c663d1d5fb}
+      \strng{fullhash}{83fa7deff3f8167de19979c663d1d5fb}
+      \strng{bibnamehash}{83fa7deff3f8167de19979c663d1d5fb}
+      \strng{authorbibnamehash}{83fa7deff3f8167de19979c663d1d5fb}
+      \strng{authornamehash}{83fa7deff3f8167de19979c663d1d5fb}
+      \strng{authorfullhash}{83fa7deff3f8167de19979c663d1d5fb}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em 13-setembro-2023}
+      \field{title}{Documentação Apache JMeter}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://jmeter.apache.org/
+      \endverb
+      \verb{url}
+      \verb https://jmeter.apache.org/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

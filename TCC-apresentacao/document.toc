@@ -1,0 +1,9 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Introdução}{3}{0}{1}
+\beamer@sectionintoc {2}{Fundamentação Teórica}{9}{0}{2}
+\beamer@sectionintoc {3}{Metodologia}{14}{0}{3}
+\beamer@sectionintoc {4}{Resultados e discussões}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Comparação teórica}{23}{0}{4}
+\beamer@subsectionintoc {4}{2}{Comparação prática}{29}{0}{4}
+\beamer@sectionintoc {5}{Contribuições}{43}{0}{5}
+\beamer@sectionintoc {6}{Conclusões e trabalhos futuros}{44}{0}{6}
