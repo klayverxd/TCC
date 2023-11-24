@@ -98,7 +98,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Acessado em 20-abril-2023}
-      \field{title}{Documentação Node.js}
+      \field{title}{Documentação do Node.js}
       \field{year}{2023}
       \true{nocite}
       \verb{urlraw}
@@ -125,14 +125,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Acessado em 20-abril-2023}
-      \field{title}{Documentação Django}
+      \field{title}{Documentação do Django REST Framework}
       \field{year}{2023}
       \true{nocite}
       \verb{urlraw}
-      \verb https://www.djangoproject.com
+      \verb https://www.django-rest-framework.org/
       \endverb
       \verb{url}
-      \verb https://www.djangoproject.com
+      \verb https://www.django-rest-framework.org/
       \endverb
     \endentry
     \entry{dotnet}{online}{}
@@ -152,7 +152,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Acessado em 20-abril-2023}
-      \field{title}{Documentação .Net}
+      \field{title}{Documentação do .Net}
       \field{year}{2023}
       \true{nocite}
       \verb{urlraw}
@@ -216,7 +216,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Acessado em 13-setembro-2023}
-      \field{title}{Documentação Apache JMeter}
+      \field{title}{Documentação do Apache JMeter}
       \field{year}{2023}
       \true{nocite}
       \verb{urlraw}
