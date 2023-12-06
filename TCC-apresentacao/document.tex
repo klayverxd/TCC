@@ -87,7 +87,7 @@
     \begin{figure}[H]
         \centering
         \caption{Frameworks \textit{back-end}}
-        \includegraphics[width=0.9\linewidth]{figuras/tech-backend-selecionadas.pdf}
+        \includegraphics[width=0.9\linewidth]{figuras/spider.pdf}
         \captionsetup{justification=centering}
         \source{O autor.}
         \label{fig:tech-backend2}    
@@ -97,13 +97,13 @@
 \begin{frame}{Objetivo}
     A definição dos objetivos foram feitos com base no modelo objetivo-questão-métrica (GQM)\nocite{6156}\let\thefootnote\relax\footnotetext{\scriptsize\href{https://ieeexplore.ieee.org/document/6156}{GQM - The TAME project: towards improvement-oriented software environments}}.
 
-    Foram \textbf{comparados} \textit{frameworks} \textit{back-end} de maneira teórica e prática; 
+    \textbf{Comparar} \textit{frameworks} \textit{back-end} de maneira teórica e prática; 
 
     \textbf{com a finalidade} de i) identificar funcionalidades nativas em fase de desenvolvimento e ii) analisar sua performance e desempenho;
 
     \textbf{no que diz respeito} a auxiliar profissionais e pesquisadores na escolha da abordagem mais adequada para suas estratégias;
 
-    \textbf{sob a perspectiva} de desenvolvedores e pesquisadores na área de desenvolvimento \textit{back-end} no contexto de construção e estudo de aplicações Web.
+    \textbf{sob a perspectiva} de desenvolvedores e pesquisadores na área de desenvolvimento \textit{back-end}, no contexto de construção e estudo de aplicações Web.
 \end{frame}
 
 % \begin{frame}{Objetivos}
@@ -128,11 +128,11 @@
 \end{frame}
 
 \begin{frame}{Motivação}
-    Com base em pesquisas bibliográficas, até o momento, não foram encontrados estudos comparativos focados à avaliação das compatibilidades/funcionalidades teóricas e à análise de cenários práticos de testes nos três \textit{frameworks} em estudo.
+    Com base em pesquisas bibliográficas, até o momento, não foram encontrados estudos comparativos focados à avaliação das compatibilidades/funcionalidades teóricas e à análise de cenários práticos de testes nos três \textit{frameworks} em estudo, com relação a taxa de erro de requisição, consumo de recursos (CPU e RAM) e tempo de resposta.
 \end{frame}
 
 %% ---------------------------------------------------------------------------
-\section{Fundamentação Teórica}
+\section{Fundamentação teórica}
 \begin{frame}{Fundamentação Teórica}
     \begin{figure}[H]
         \centering
@@ -149,7 +149,7 @@
     \begin{multicols}{2}
         \begin{itemize}
             \item O Node.js é um \textit{framework} baseado em JavaScript;
-            \item Foi construído sobre a \textit{engine} V8 para o Chrome;
+            \item Foi construído sobre a \textit{engine} V8\footnote{\hspace*{1cm}V8 é um motor de execução JavaScript, utilizado principalmente no navegador Chrome e em plataformas como Node.js} para o Chrome;
             \item Modelo de programação: Assíncrono e orientado a eventos.
         \end{itemize}
         \begin{figure}[H]
@@ -187,7 +187,7 @@
     \begin{multicols}{2}
         \begin{itemize}
             \item Linguagem principal: C\#;
-            \item Framework multiplataforma desenvolvido pela Microsoft;
+            \item \textit{Framework} multiplataforma desenvolvido pela Microsoft;
             \item Modelo de programação: Orientado a Objetos;
         \end{itemize}
         \begin{figure}[H]
@@ -260,7 +260,18 @@
 \end{frame}
 
 
-\begin{frame}{Metodologia}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo1.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \textbf{A partir de uma revisão bibliográfica foram definidas as seguintes características teóricas para comparação:}
     \begin{itemize}
         \item Suporte a diferentes sistemas operacionas;
@@ -277,12 +288,23 @@
                 \item MongoDB;
                 \item SQL Server;
             \end{itemize}
-        \item Suporte a ORM nativo;
+        \item Suporte a ORM\footnote{\scriptsize Técnica de programação para a interação entre aplicações e banco de dados} nativo;
         \item Documentação nativa da API em tempo de desenvolvimento.
     \end{itemize} 
 \end{frame}
 
-\begin{frame}{Metodologia}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo2.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+    }
     \textbf{Levantamento de requisitos do \textit{software} alvo}
     \begin{figure}[H]
         \centering
@@ -294,7 +316,18 @@
     \end{figure}
 \end{frame}
 
-\begin{frame}{Metodologia - modelagem do \textit{software} alvo}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo3.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{table}[h!] 
         \centering
         \captionsetup{justification=centering}
@@ -312,7 +345,18 @@
     \end{table}
 \end{frame}
 
-\begin{frame}{Metodologia}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo3.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \textbf{Métricas comparativas práticas}
     \begin{itemize}
         \item Taxa de erros de requisição
@@ -344,18 +388,40 @@
 %     \end{enumerate}
 % \end{frame}
 
-\begin{frame}{Modelagem dos testes}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo4.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Fluxo de requisições dos testes}
-        \includegraphics[width=1\linewidth]{figuras/fluxo-requisicoes-testes.pdf}
+        \includegraphics[width=1\linewidth]{figuras/fluxo-requisicoes-testes2.pdf}
         \captionsetup{justification=centering}
         \source{O autor.}
         \label{fig:fluxo-requisicoes-testes}
     \end{figure}
 \end{frame}
 
-\begin{frame}{Execução dos testes}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Metodologia
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo5.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{itemize}
         \item Modelagem dos testes feitos no JMeter\nocite{jmeter}\let\thefootnote\relax\footnotetext{\url{https://jmeter.apache.org/}};
             \begin{itemize}
@@ -377,7 +443,19 @@
 \section{Resultados e discussões}
 
 \subsection{Comparação teórica}
-\begin{frame}{Resultados comparação teórica}
+
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{table}[H]
         \centering
         \begin{tabular}{|cc|c|c|c|}
@@ -394,7 +472,18 @@
     \end{table}
 \end{frame}
 
-\begin{frame}{Resultados comparação teórica}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{table}[H]
         \centering
         \begin{tabular}{|cc|c|c|c|}
@@ -413,7 +502,18 @@
     \end{table}
 \end{frame}
 
-\begin{frame}{Resultados comparação teórica}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{table}[H]
         \centering
         \begin{tabular}{|c|c|c|c|}
@@ -425,9 +525,24 @@
         \caption{Suporte das tecnologias ao ORM nativo}
         \label{tab:resultado-orm}
     \end{table}
+    \begin{itemize}
+        \item Alternativas para o Node.js: Prisma, Sequelize e TypeORM;
+        \item Alternativas para o .Net Core: Entity Framework Core e Dapper.
+    \end{itemize}
 \end{frame}
 
-\begin{frame}{Resultados comparação teórica}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{table}[H]
         \centering
         \begin{tabular}{|c|c|c|c|}
@@ -443,15 +558,37 @@
 \end{frame}
 
 
-\begin{frame}{Resultados e discussões}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados e discussões
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{block}{QP1: Qual é o \textit{framework} com mais funcionalidades nativas seguindo as características escolhidas para estudo?}
         De acordo com os estudos bibliográficos realizados, o DRF e o .Net apresentaram mais funcionalidades nativas. No entanto, os três \textit{framework} possuem compatibilidade para diversas funcionalidades, principalmente utilizando bibliotecas de terceiros. Portanto, os três são flexíveis para adaptação dependendo do contexto que serão utilizados.
     \end{block}
 \end{frame}
 
-\begin{frame}{Resultados - outras observações}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - outras observações
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{itemize}
-        \item Todas os \textit{framework} ofereciam suporte para a construção das APIs;
+        \item Todos os \textit{framework} oferecem suporte para a construção das APIs por meio da documentação;
         \vspace*{0.5em}
         \item Dificuldades no desenvolvimento em .Net devido à liguagem e seu paradigma;
         \vspace*{0.5em}
@@ -461,7 +598,19 @@
 
 
 \subsection{Comparação prática}
-\begin{frame}{Resultados - teste de pico}
+
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de pico
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Consumo médio de recursos - teste de pico}
@@ -472,13 +621,35 @@
     \end{figure}
 \end{frame}
 
-\begin{frame}{Resultados - teste de pico}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de pico
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{block}{QP2: Qual é o \textit{framework} mais otimizado com relação ao consumo de recursos no cenário de teste de pico?}
         O Node.js apresentou menor consumo de CPU enquanto o DRF mostrou melhor resultado no consumo de RAM.
     \end{block}
 \end{frame}
 
-\begin{frame}{Resultados - teste de pico}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de pico
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Tempo de resposta médio dos métodos HTTP - teste de pico}
@@ -489,17 +660,39 @@
     \end{figure}
 \end{frame}
 
-\begin{frame}{Resultados - teste de pico}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de pico
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{block}{QP3: Qual é o \textit{framework} mais otimizado com relação ao tempo de resposta no cenário de teste de pico?}
         O .Net apresentou os melhores resultados em tempo de resposta em todos os métodos.
     \end{block}
 \end{frame}
 
 
-\begin{frame}{Resultados - teste de carga crescente}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de carga crescente
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
-        \caption{Consumo médio recursos - teste de carga crescente}
+        \caption{Consumo médio de recursos - teste de carga crescente}
         \includegraphics[width=1\linewidth]{figuras/resultados/consumo-recursos-crescente.pdf}
         \captionsetup{justification=centering}
         \source{O autor.}
@@ -513,7 +706,18 @@
     \end{block}
 \end{frame}
 
-\begin{frame}{Resultados - teste de carga crescente}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de carga crescente
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Tempo de resposta médio dos métodos HTTP - teste de carga crescente}
@@ -531,7 +735,18 @@
 \end{frame}
 
 
-\begin{frame}{Resultados - teste de resistência}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de resistência
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Consumo médio de recursos - teste de resistência}
@@ -548,7 +763,18 @@
     \end{block}
 \end{frame}
 
-\begin{frame}{Resultados - teste de resistência}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - teste de resistência
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \begin{figure}[H]
         \centering
         \caption{Tempo de resposta médio dos métodos HTTP - teste de resistência}
@@ -566,21 +792,48 @@
 \end{frame}
 
 % \subsection{Outras observações - resultados práticos}
-\begin{frame}{Resultados - outras observações}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - outras observações
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
     \textbf{Taxa de erros de requisições}
     \begin{itemize}
-        \item Foi observado, durante os testes práticos, que nenhum dos \textit{framework} demonstrou falhas nas requisições. Em todos os cenários avaliados, a taxa de erros de requisição foi igual a 0. Com estes resultados conclui-se que, para os cenários modelados, os \textit{framework} possuem bom rendimento.
+        \item Foi observado, durante os testes práticos, que nenhum dos \textit{framework} demonstrou falhas nas requisições. Em todos os cenários avaliados, a taxa de erros de requisição foi igual a 0. Com estes resultados conclui-se que, para os cenários modelados, os \textit{frameworks} possuem bom rendimento.
     \end{itemize}
     
 \end{frame}
 
-\begin{frame}{Resultados - outras observações}
+\begin{frame}{
+    \begingroup 
+        \setlength{\multicolsep}{-1em}
+        \begin{multicols}{2}
+            Resultados - outras observações
+            \begin{figure}[H]
+                \vspace*{-0.6cm}
+                \includegraphics[width=1\linewidth]{figuras/passo6-teste.pdf}
+            \end{figure}
+        \end{multicols}
+    \endgroup
+}
+    \vspace*{0.2cm}
+
+    \begin{itemize}
+        \item     \textbf{.Net apresentou um maior tempo de resposta inicial (cold start)}
+    \end{itemize}
     \begin{figure}[H]
         \centering
         \caption{Inicialização do .Net no teste de carga crescente}
-        \includegraphics[width=0.65\linewidth]{figuras/resultados/start-dotnet-crescente-ex2.pdf}
+        \includegraphics[width=0.52\linewidth]{figuras/resultados/start-dotnet-crescente-ex2.pdf}
         \captionsetup{justification=centering}
-        \source{O autor.}
+        %\source{O autor.}
         \label{fig:endurance-tempo-metodos-totais}
     \end{figure}
 \end{frame}
@@ -588,9 +841,10 @@
 %% ---------------------------------------------------------------------------
 \section{Contribuições}
 \begin{frame}{Contribuições}
-    \textbf{O presente estudo foi submetido em formato de artigo no SBSI 2024}
+    \textbf{O presente estudo teve as seguintes contribuições:}
     \begin{itemize}
-        \item XX Simpósio Brasileiro de Sistemas de Informação;
+        \item Projeto de um livro para Web, com orientação do Prof. Fischer;
+        \item Submissão em formato de artigo para o XX Simpósio Brasileiro de Sistemas de Informação;
     \end{itemize}
     \begin{figure}[H]
         \centering
@@ -648,7 +902,15 @@
 % Final frame
 \begin{frame}{}
     \centering
-    \huge{\textbf{\example{Obrigado(a) pela Atenção!}}}
+    \huge{
+        \textbf{\example{Obrigado(a) pela Atenção!}
+    }}
+
+    \vspace{0.5cm}
+
+    \huge{
+        \textbf{\example{Dúvidas?}
+    }}
     
     \vspace{1cm}
     
@@ -662,6 +924,7 @@
 %% ---------------------------------------------------------------------------
 
 \begin{frame}{}
+    \maketitle
 \end{frame}
 
 \begin{frame}{}
